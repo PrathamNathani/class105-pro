@@ -1,0 +1,16 @@
+body{
+    background-color:aqua;
+    color: black;
+}
+.heading{
+    font-size: 35px;
+}                
+.name_of_object{
+    color:red;
+    font-size: 20px;
+}
+#camera{
+    border: 2px dashed rgb(0, 0, 0);
+    height: 350px;
+    width: 350px;
+}
